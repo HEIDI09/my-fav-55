@@ -1,0 +1,163 @@
+
+body{
+    background-color: #d1c8e2;
+  }
+    h2{
+      font-size: 30px;
+      Font: Raleway;
+    }
+    h1{
+      font-size: 20px;
+    }
+    img{
+      height: 400px;
+      width: 500px;
+      transition: transform .2s;
+    }
+  
+    img:hover {
+      transform:scale(0.9);
+    }
+    
+    #welcome{
+      background-color:#d1c8e2; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 700px;
+      padding-top: 10px;
+    }
+    
+    #bio{
+      background-color:#cbe5f1; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 700px;
+      padding-top: 10px;
+    }
+    
+    #book{
+      background-color:#e0f0e1; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 900px;
+      padding-top: 10px;
+    }
+  
+    #inspiration{
+      background-color:#f1bfed; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 700px;
+      padding-top: 10px;
+    }
+    
+    iframe{
+      padding: 10px;
+      margin-bottom: 10px;
+      font-family: 'Bubbler One', sans-serif;
+      font-style: black;
+      background-color: #d1c8e2;
+    }
+  
+    li {
+      display: inline;
+      padding: 180px;
+      font-size: 27px;
+      font-family: 'Lobster', cursive;
+    }
+    
+    .picture{
+      height: 300px;
+      width: 500px;
+    }
+
+    
+body{
+    background-color: #d1c8e2;
+  }
+    h2{
+      font-size: 30px;
+      Font: Raleway;
+    }
+    h1{
+      font-size: 20px;
+    }
+    img{
+      height: 400px;
+      width: 500px;
+      transition: transform .2s;
+    }
+  
+    img:hover {
+      transform:scale(0.9);
+    }
+    
+    #welcome{
+      background-color:#d1c8e2; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 700px;
+      padding-top: 10px;
+    }
+    
+    #bio{
+      background-color:#cbe5f1; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 700px;
+      padding-top: 10px;
+    }
+    
+    #book{
+      background-color:#e0f0e1; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 900px;
+      padding-top: 10px;
+    }
+  
+    #inspiration{
+      background-color:#f1bfed; 
+      text-align: center;
+      align-items: center;
+      font-family: 'Bubbler One', sans-serif;
+      height: 700px;
+      padding-top: 10px;
+    }
+    
+    iframe{
+      padding: 10px;
+      margin-bottom: 10px;
+      font-family: 'Bubbler One', sans-serif;
+      font-style: black;
+      background-color: #d1c8e2;
+    }
+  
+    li {
+      display: inline;
+      padding: 180px;
+      font-size: 27px;
+      font-family: 'Lobster', cursive;
+    }
+    
+    .picture{
+      height: 300px;
+      width: 500px;
+    }
+
+    #contact{
+        background-color:#e8f1bf; 
+        text-align: center;
+        align-items: center;
+        font-family: 'Bubbler One', sans-serif;
+        height: 700px;
+        padding-top: 10px;
+      }
+
